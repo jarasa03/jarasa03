@@ -1,4 +1,4 @@
-# Bienvenido a mi perfil, soy Francisco Javier Arruabarrena Sabroso! 👋
+# Bienvenido a mi perfil, soy Francisco Javier Arruabarrena Sabroso!
 
 Actualmente soy Técnico en Sistemas Nicroinformáticos y Redes y estudiante del doble grado superior de Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma (DAM).
 
