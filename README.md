@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil, soy Francisco Javier Arruabarrena Sabroso!
 
-Actualmente soy Técnico en Sistemas Nicroinformáticos y Redes y estudiante del doble grado superior de Desarrollo de Aplicaciones Web (DAW) y Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente vivo en Madrid.
+Actualmente soy Técnico en Sistemas Microinformáticos y Redes y estudiante de grado superior de Desarrollo de Aplicaciones Web (DAW). Actualmente vivo en Madrid.
 
 ## Repositorios más importantes
 
