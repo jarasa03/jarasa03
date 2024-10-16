@@ -21,6 +21,7 @@ Actualmente soy Técnico en Sistemas Microinformáticos y Redes y estudiante de 
   <img width="12"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40" width="12" alt="css logo"/>
 </div>
 
 ###
