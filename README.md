@@ -25,6 +25,8 @@ Actualmente soy Técnico en Sistemas Microinformáticos y Redes y estudiante de 
   <img width="12"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"/>
   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" height="40" alt="bash logo"/>
+  <img width="12"/>
 </div>
 
 ###
