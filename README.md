@@ -14,11 +14,13 @@ Actualmente soy Técnico en Sistemas Microinformáticos y Redes y estudiante de 
 - [Linkedin](https://www.linkedin.com/in/javierarrua/)
 - [Instagram](https://www.instagram.com/jarasa03/?next=%2F&hl=es)
 
-## Programas que utilizo:
+## Lenguajes que utilizo:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img width="12"/>
 </div>
 
 ###
