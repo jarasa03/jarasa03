@@ -2,8 +2,9 @@
 
 ## Sobre mí
 
-📖 Estudiando segundo año del Grado Superior de Desarrollo de Aplicaciones Web
-Actualmente soy Técnico en Sistemas Microinformáticos y Redes y estudiante de grado superior de Desarrollo de Aplicaciones Web (DAW). Actualmente vivo en Madrid.
+📖 Estudiando segundo año del Grado Superior de Desarrollo de Aplicaciones Web.
+🤓 Soy Técnico de Sistemas Microinformáticos y Redes.
+📍 Madrid.
 
 ## Repositorios más importantes
 
