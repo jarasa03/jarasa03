@@ -8,8 +8,9 @@
 
 ## Repositorios más importantes
 
-- [Ajedrez](https://github.com/jarasa03/Ajedrez)
+- [Certificaciones](https://github.com/jarasa03/Certificaciones)
 - [VolleyQuiz](https://github.com/jarasa03/VolleyQuiz)
+- [Ajedrez](https://github.com/jarasa03/Ajedrez)
 - [Instructivos](https://github.com/jarasa03/Instructivos)
 - [Ejercicios de Programación](https://github.com/jarasa03/Trabajos-Programacion)
 - [Trabajos de Sistemas Informáticos](https://github.com/jarasa03/Trabajos-Sistemas-Informaticos)
