@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-<p align="left">📖 Estudiando segundo año del Grado Superior de Desarrollo de Aplicaciones Web. <br>
+<p align="left">📖 Desarrollador Web. <br>
 🤓 Soy Técnico de Sistemas Microinformáticos y Redes. <br>
 📍 Madrid.</p>
 
