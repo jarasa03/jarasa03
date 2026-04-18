@@ -52,7 +52,7 @@
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="WordPress logo"/>
   <img width="12"/>
-  <img src="https://es.pinterest.com/pin/877076096180250803/" height="40" alt="OpenAI logo"/> 
+  <img src="https://d-cb.jc-cdn.com/sites/crackberry.com/files/styles/large/public/article_images/2023/08/openai-logo.jpg" height="40" alt="OpenAI logo"/> 
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="40" alt="ElevenLabs logo"/>
   <img width="12"/>
