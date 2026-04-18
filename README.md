@@ -52,7 +52,7 @@
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="WordPress logo"/>
   <img width="12"/>
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="OpenAI logo"/>
+  <img src="https://platform.openai.com/assets/logos/logo-openai-dark.svg" height="40" alt="OpenAI logo"/> 
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="40" alt="ElevenLabs logo"/>
   <img width="12"/>
@@ -60,7 +60,7 @@
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/elementor/92003B" height="40" alt="Elementor logo"/>
   <img width="12"/>
-  <img src="https://cdn.simpleicons.org/heygen" height="40" alt="HeyGen logo"/>
+  <img src="https://img.shields.io/badge/HeyGen-000000?style=for-the-badge&logoColor=white" height="28" alt="HeyGen badge"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
   <img width="12"/>
