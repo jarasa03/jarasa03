@@ -52,7 +52,7 @@
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="WordPress logo"/>
   <img width="12"/>
-  <img src="[https://platform.openai.com/assets/logos/logo-openai-dark.svg](https://es.pinterest.com/pin/877076096180250803/)" height="40" alt="OpenAI logo"/> 
+  <img src="https://es.pinterest.com/pin/877076096180250803/" height="40" alt="OpenAI logo"/> 
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="40" alt="ElevenLabs logo"/>
   <img width="12"/>
