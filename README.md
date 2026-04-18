@@ -60,7 +60,7 @@
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/elementor/92003B" height="40" alt="Elementor logo"/>
   <img width="12"/>
-  <img src="https://cdn.brandfetch.io/idiby6XkNR/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1758355646735" height="28" alt="HeyGen badge"/>
+  <img src="https://cdn.brandfetch.io/idiby6XkNR/w/200/h/200/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1758355646735" height="40" alt="HeyGen badge"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
   <img width="12"/>
