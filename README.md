@@ -81,12 +81,15 @@
 
 - n8n workflow automation and AI agent development
 - Laravel application development
+- Salesforce integrations and connected workflows
 - WordPress website development
 - ChatGPT-powered solutions and prompting workflows
+- Cross-platform automation between business tools and digital services
 - ElevenLabs voice AI integration
-- Docker-based development environments
 - Elementor website building
 - HeyGen AI avatar and video workflows
+- Application and service integrations
+- Docker-based development environments
 - PostgreSQL database management
 - Supabase backend and database solutions
 - Git and GitHub version control
