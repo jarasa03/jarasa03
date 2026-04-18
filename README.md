@@ -54,7 +54,7 @@
   <img width="12"/>
   <img src="https://d-cb.jc-cdn.com/sites/crackberry.com/files/styles/large/public/article_images/2023/08/openai-logo.jpg" height="40" alt="OpenAI logo"/> 
   <img width="12"/>
-  <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="40" alt="ElevenLabs logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfANd2lHNwaNU_WUxybCB5mWPpEJqKFUUY8g&s" height="40" alt="ElevenLabs logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo"/>
   <img width="12"/>
