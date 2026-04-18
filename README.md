@@ -46,9 +46,21 @@
 ## Core Stack & Tools
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/n8n/EF6C00" height="40" alt="n8n logo"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo"/>
   <img width="12"/>
-  <img src="https://cdn.simpleicons.org/n8n/EF6C00" height="40" alt="n8n logo"/>
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="WordPress logo"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/openai/000000" height="40" alt="ChatGPT logo"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/elevenlabs/000000" height="40" alt="ElevenLabs logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/elementor/92003B" height="40" alt="Elementor logo"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/heygen/000000" height="40" alt="HeyGen logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
   <img width="12"/>
@@ -67,11 +79,18 @@
 
 ## Areas of Expertise
 
-- Web development and full stack applications
-- Artificial intelligence and workflow automation
-- Automation systems with n8n
-- Backend development with Laravel
-- Database management with MySQL, PostgreSQL, and Supabase
+- n8n workflow automation and AI agent development
+- Laravel application development
+- WordPress website development
+- ChatGPT-powered solutions and prompting workflows
+- ElevenLabs voice AI integration
+- Docker-based development environments
+- Elementor website building
+- HeyGen AI avatar and video workflows
+- PostgreSQL database management
+- Supabase backend and database solutions
+- Git and GitHub version control
+- Linux and Windows environments
 - IT systems, networking, and technical support
 
 <!-- <div align="left">
