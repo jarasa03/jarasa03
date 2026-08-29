@@ -95,5 +95,3 @@
 - Git and GitHub version control
 - Linux and Windows environments
 - IT systems, networking, and technical support
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarasa_03&layout=compact)
